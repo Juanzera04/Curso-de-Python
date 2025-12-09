@@ -14,3 +14,4 @@ print(f"\nA escalação do {timeSelecionado} é a seguinte:\n")
 
 for escalaçao in escalcoes[timeSelecionado]:
     print(escalaçao)
+
